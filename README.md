@@ -53,8 +53,8 @@ Sou apaixonado por tecnologia e atualmente estudante de **Engenharia de Software
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasmedeiros&show_icons=true&theme=radical)
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fasmedeiros&layout=compact&theme=radical)
 
 ---
 
