@@ -22,8 +22,8 @@ Ao longo da minha jornada, desenvolvi projetos que refletem meu compromisso com 
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Engenharia de Software
-- 💻 Servidor público na área de educação
-- 👨‍💻 Interesse em Inteligência Artificial, Desenvolvimento Web e Segurança da Informação
+- ✨ Servidor público na área de educação
+- 💻 Interesse em Inteligência Artificial, Desenvolvimento Web e Segurança da Informação
 - 📚 Participante de projetos voltados à democratização do aprendizado de linguagens de programação no currículo escolar da educação básica
 - 🎯 Sempre em busca de melhorar minhas habilidades e contribuir com a comunidade de desenvolvedores
 
@@ -40,7 +40,7 @@ Ao longo da minha jornada, desenvolvi projetos que refletem meu compromisso com 
 - **Laravel** e boas práticas para o desenvolvimento seguro de aplicações web.
 - **Testes automatizados** com **PHPUnit**.
 
-## 👯 Estou buscando colaborar em:
+## 📌 Estou buscando colaborar em:
 - Projetos que envolvem **Desenvolvimento Web**, **Segurança de Aplicações**, e **Engenharia de Software**.
 - Iniciativas voltadas para **Educação** e **Tecnologia**.
 
