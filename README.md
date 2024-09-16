@@ -47,7 +47,7 @@ Sou apaixonado por tecnologia e atualmente estudante de **Engenharia de Software
 
 ## 📫 Como me encontrar:
 - **Email**: gannba@hotmail.com
-- **Website**: [fasil.criarsite.online](https://fasil.criarsite.online.com)
+- **Website**: [fasil.criarsite.online](https://www.fasil.criarsite.online/)
 
 ---
 
@@ -78,12 +78,11 @@ Sou apaixonado por tecnologia e atualmente estudante de **Engenharia de Software
 
 ## 🚀 Projetos Principais
 
-- **[i-Escola](link_projeto)**: Sistema de gestão escolar com funcionalidades de matrícula, comunicação e boletins escolares.
-- **[i-Simulados](link_projeto)**: Plataforma de simulados online para criação, aplicação e correção de testes escolares.
-- **[i-Boletim](link_projeto)**: Sistema de gestão e geração de boletins escolares, automatizando o feedback das avaliações.
-- **[Gerenciamento de Biblioteca](link_projeto)**: Sistema de biblioteca em **PHP** e **MySQL** com um layout simples e eficiente.
-- **[Validador de Cartões de Crédito](link_projeto)**: Aplicação para validação de cartões usando **Python**, **PHP**, e **Java**.
-- **[Meu Portfolio Pessoal](link_projeto)**: Meu site pessoal, onde exibo meus projetos e artigos sobre **Engenharia de Software**.
+- **[i-Escola](https://www.fasil.criarsite.online/i-School/)**: Sistema de gestão escolar com funcionalidades de matrícula, comunicação e boletins escolares.
+- **[i-Simulados](https://www.fasil.criarsite.online/i-Practice)**: Plataforma de simulados online para criação, aplicação e correção de testes escolares.
+- **[i-Boletim](https://www.fasil.criarsite.online/i-Grade)**: Sistema de gestão e geração de boletins escolares, automatizando o feedback das avaliações.
+- **[Gerenciamento de Biblioteca](https://www.fasil.criarsite.online/i-Library/)**: Sistema de biblioteca em **PHP** e **MySQL** com um layout simples e eficiente.
+- **[Meu Portfolio Pessoal](https://www.fasil.criarsite.online/)**: Meu site pessoal, onde exibo meus projetos e artigos sobre **Engenharia de Software**.
 
 ---
 
