@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **fasmedeiros/fasmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +15,19 @@ Here are some ideas to get you started:
 
 # Olá! Eu sou Fabrício 👋
 
-Sou apaixonado por tecnologia e atualmente estudante de **Engenharia de Software**. Tenho um grande interesse em Desenvolvimento Web, Segurança de Aplicações e em práticas de **Engenharia de Software** que garantam qualidade e robustez. Busco sempre aprender mais e colaborar com projetos que me desafiem e expandam meus conhecimentos.
+Bem-vindo ao meu repositório *GitHub*! Sou apaixonado por tecnologia e atualmente estudante de **Engenharia de Software**, com grande interesse em *Desenvolvimento Web*, *Segurança de Aplicações* e práticas que garantem qualidade e robustez. Além de ser servidor público na área de **Educação**, busco sempre aplicar meu conhecimento para contribuir com a democratização do aprendizado e a melhoria das práticas educacionais.
 
----
+Ao longo da minha jornada, desenvolvi projetos que refletem meu compromisso com a criação de soluções tecnológicas eficientes e seguras. Adoro aprender mais e colaborar com iniciativas que me desafiem e expandam meus conhecimentos, tanto no contexto acadêmico quanto na prática profissional.
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software
+- 💻 Servidor público na área de educação
+- 👨‍💻 Interesse em Inteligência Artificial, Desenvolvimento Web e Segurança da Informação
+- 📚 Participante de projetos voltados à democratização do aprendizado de linguagens de programação no currículo escolar da educação básica
+- 🎯 Sempre em busca de melhorar minhas habilidades e contribuir com a comunidade de desenvolvedores
+
+
 
 ## 🔭 Atualmente, estou trabalhando em:
 - **i-Escola**: Um sistema para gestão escolar que facilita a comunicação entre professores, alunos e pais, com funcionalidades de matrículas, registros e boletins.
