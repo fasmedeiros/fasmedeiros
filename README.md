@@ -56,6 +56,7 @@ Ao longo da minha jornada, desenvolvi projetos que refletem meu compromisso com 
 ## 📫 Como me encontrar:
 - **Email**: gannba@hotmail.com
 - **Website**: [fasil.criarsite.online](https://www.fasil.criarsite.online/)
+- **Linkedin**: [linkedin.com](https://www.linkedin.com/in/fabricio-de-medeiros/)
 
 ---
 
